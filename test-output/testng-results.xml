@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90407" started-at="2020-01-20T16:55:34Z" finished-at="2020-01-20T16:57:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90407" started-at="2020-01-20T16:55:34Z" finished-at="2020-01-20T16:57:05Z">
+      <class name="testScriptLayer.DriverScript">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScriptLayer.DriverScript@70fda8]" name="setUp" is-config="true" duration-ms="15495" started-at="2020-01-20T22:25:34Z" finished-at="2020-01-20T22:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="usercreation()[pri:0, instance:testScriptLayer.DriverScript@70fda8]" name="usercreation" duration-ms="21701" started-at="2020-01-20T22:25:50Z" finished-at="2020-01-20T22:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usercreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScriptLayer.DriverScript@70fda8]" name="tearDown" is-config="true" duration-ms="11492" started-at="2020-01-20T22:26:11Z" finished-at="2020-01-20T22:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScriptLayer.DriverScript@70fda8]" name="setUp" is-config="true" duration-ms="11459" started-at="2020-01-20T22:26:23Z" finished-at="2020-01-20T22:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="empcreation()[pri:1, instance:testScriptLayer.DriverScript@70fda8]" name="empcreation" duration-ms="18762" started-at="2020-01-20T22:26:34Z" finished-at="2020-01-20T22:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empcreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScriptLayer.DriverScript@70fda8]" name="tearDown" is-config="true" duration-ms="11468" started-at="2020-01-20T22:26:53Z" finished-at="2020-01-20T22:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScriptLayer.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

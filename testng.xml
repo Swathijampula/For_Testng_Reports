@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FrameWorks">
+  <test thread-count="5" name="datadrivenframe">
+    <classes>
+      <class name="driverfactory.DriverScript"/>
+    </classes>  
+   </test> <!-- datadrivenframe -->
+    <test thread-count="5" name="keyword">
+   <classes>
+      <class name="driverfactory.DataDriven"/>
+    </classes>
+  </test> <!-- keyword -->
+</suite> <!-- FrameWorks -->
